@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.18)  18 NOV 2025 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.18)  18 NOV 2025 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1247,7 +1247,7 @@ Package caption Warning: Unused \captionsetup[figure] on input line 11.
 See the caption package documentation for explanation.
 
 [11]
-runsystem(latexminted cleantemp  --timestamp 20251118122112 02769E55BEA06EE946C
+runsystem(latexminted cleantemp  --timestamp 20251118122329 02769E55BEA06EE946C
 C42FC49303350)...executed safely (allowed).
 
  (./worksheet1.aux)
@@ -1261,7 +1261,7 @@ Package rerunfilecheck Info: File `worksheet1.out' has not changed.
 Here is how much of TeX's memory you used:
  34230 strings out of 467538
  642917 string characters out of 5419551
- 1762997 words of memory out of 5000000
+ 1762988 words of memory out of 5000000
  62338 multiletter control sequences out of 15000+600000
  646644 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1276,7 +1276,7 @@ xmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2025/texm
 f-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-di
 st/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on worksheet1.pdf (11 pages, 1111694 bytes).
+Output written on worksheet1.pdf (11 pages, 1111379 bytes).
 PDF statistics:
  432 PDF objects out of 1000 (max. 8388607)
  370 compressed objects within 4 object streams
