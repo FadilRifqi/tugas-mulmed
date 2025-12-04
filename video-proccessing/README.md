@@ -7,3 +7,8 @@ Tugas ini menggunakan library dlib dengan model bawaan get_frontal_face_detector
 ## Perbedaan
 
 Yang berbeda dari yang saya kerjakan dari demo yang dilakukan di kelas meliputi, saya mempersempit roi hanya menjadi cakupan pipi kiri saja, memvisualkan signal rgb dan hasil filter POS
+
+## Lampiran Penggunaan AI
+
+![alt text](Screenshot_20251205_001548.png)
+![alt text](Screenshot_20251205_001647.png) ![alt text](Screenshot_20251205_001703.png) ![alt text](Screenshot_20251205_001745.png) ![alt text](Screenshot_20251205_001817.png) ![alt text](Screenshot_20251205_001850.png) ![alt text](Screenshot_20251205_001859.png) ![alt text](Screenshot_20251205_001913.png) ![alt text](Screenshot_20251205_001932.png)
