@@ -89,7 +89,7 @@ r_values, g_values, b_values = [], [], []
 
 # Create a live plot for RGB signal
 plt.ion()
-fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 8))
+fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(20, 16))
 
 # Plot for raw RGB signal
 line_r, = ax1.plot([], [], 'r-', label='Red')
@@ -105,7 +105,7 @@ ax1.set_ylabel("Intensity")
 # Plot for POS signal
 line_pos, = ax2.plot([], [], 'm-', label='POS Signal')
 ax2.set_xlim(0, 100)  # Adjust x-axis range as needed
-ax2.set_ylim(-1, 1)  # Adjust y-axis range as needed
+ax2.set_ylim(-4, 4)  # Adjust y-axis range as needed
 ax2.legend()
 ax2.set_title("POS Signal")
 ax2.set_xlabel("Frame")
